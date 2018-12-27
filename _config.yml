@@ -1,0 +1,7 @@
+title: Mark Newton Associates
+url: https://www.marknewtonassociates.com
+baseurl: /
+
+exclude:
+   - Gemfile
+   - Gemfile.lock
